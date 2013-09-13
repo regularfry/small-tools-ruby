@@ -1,0 +1,9 @@
+Package: small-tools-ruby
+Version: 0.0.1
+Section: devel
+Priority: optional
+Architecture: all
+Depends: chruby, ruby-install, gemsh, rv
+Installed-Size:
+Maintainer: Alex Young
+Description: A metapackage for the ruby small toolset
